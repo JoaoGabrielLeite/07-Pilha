@@ -118,7 +118,7 @@ void exibir()
 
 		if (topo == NULL)
 		{
-			cout << "Lista vazia \n";
+			cout << "Pilha vazia \n";
 				return;
 	}
 		while (aux != NULL)
